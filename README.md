@@ -5,7 +5,6 @@ This project is a web application that allows users to view and filter top cours
 
 ## Technologies Used
 - React
-- React Router
 - useState and useEffect hooks
 - Conditional rendering
 - Array filtering and mapping
