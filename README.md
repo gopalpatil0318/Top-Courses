@@ -12,6 +12,9 @@ This project is a web application that allows users to view and filter top cours
 - React Toastify
 - CSS (Tailwind CSS)
 
+## Explore Project
+Project Host Link - https://top-courses-alpha-mocha.vercel.app/
+
 ## Installation
 1. Clone the repository:
    ```bash
